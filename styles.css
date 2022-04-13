@@ -15,6 +15,9 @@
     80%{left:800px;}
     100%{left:953px;}
 }
+h2,p{
+    padding-left:10px;
+}
 p:hover{
     animation-name:change-color;
     animation-duration:7s;
